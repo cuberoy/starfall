@@ -6,9 +6,9 @@
 - HTML, CSS & JS
 
 # Demo
-[https://app.cuberoy.com/star-fall](https://app.cuberoy.com/star-fall)
+[https://app.cuberoy.com/starfall](https://app.cuberoy.com/starfall)
 
-<img src="https://github.com/cuberoy/star-fall/blob/main/demo.gif">
+<img src="https://github.com/cuberoy/starfall/blob/main/demo.gif">
 
 ## License
-This project is licensed under the terms of the MIT license. Therefore, it's free for use or modification. See the [LICENSE](https://github.com/cuberoy/star-fall/blob/main/LICENSE) for more info.
+This project is licensed under the terms of the MIT license. Therefore, it's free for use or modification. See the [LICENSE](https://github.com/cuberoy/starfall/blob/main/LICENSE) for more info.
